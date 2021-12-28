@@ -4,3 +4,4 @@ if (2 == 0) {
 
 let a = "hello world";
 console.log(a);
+const a = "add something to make another commit";
